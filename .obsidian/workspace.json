@@ -11,10 +11,14 @@
             "id": "fe0f05142a82adc8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Improv/NPCs/Mayor Cool.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Mayor Cool"
             }
           }
         ]
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Improv/NPCs/Mayor Cool.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Mayor Cool"
             }
           },
           {
@@ -124,11 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Improv/NPCs/Mayor Cool.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Mayor Cool"
             }
           },
           {
@@ -152,21 +158,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
+                "file": "Improv/NPCs/Mayor Cool.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Mayor Cool"
+            }
+          },
+          {
+            "id": "f362b0c89d79df01",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,11 +191,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2035618e413a9f8f",
+  "active": "fe0f05142a82adc8",
   "lastOpenFiles": [
+    "Improv/Locations/Drubbin.md",
+    "Improv/NPCs/Mayor Cool.md",
+    "Untitled.md",
     "Improv/Bookkeeping",
     "Improv/Factions",
     "Improv/Items",
@@ -190,8 +211,6 @@
     "Improv/Quests",
     "Improv/NPCs",
     "Improv/Locations",
-    "Improv",
-    "Untitled.md",
     "Welcome.md"
   ]
 }
