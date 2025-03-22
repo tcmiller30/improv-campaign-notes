@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9286b070a31ea587",
+        "id": "789527b801363e8d",
         "type": "tabs",
         "children": [
           {
-            "id": "81cfd71c832de405",
+            "id": "c0780c7e3c814fae",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Improv/_Logistics/_Logistics.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "_Logistics"
             }
           }
         ]
@@ -181,21 +180,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81cfd71c832de405",
+  "active": "2035618e413a9f8f",
   "lastOpenFiles": [
+    "Pendrot/_Logistics/_Logistics.md",
+    "Pendrot/Quests/Quests.md",
+    "Pendrot/Party/Party.md",
+    "Pendrot/NPCs/NPCs.md",
+    "Pendrot/NPCs/Mayor Cool.md",
+    "Pendrot/Lore/Lore.md",
+    "Pendrot/Locations/Locations.md",
+    "Pendrot/Locations/Drubbin.md",
+    "Pendrot/Items/Items.md",
+    "Pendrot/General/General.md",
+    "Pendrot/_Logistics",
+    "Pendrot/Quests",
+    "Pendrot/Party",
+    "Pendrot/NPCs",
+    "Pendrot/Lore",
+    "Pendrot/Locations",
+    "Pendrot/Items",
+    "Pendrot/General",
+    "Pendrot",
+    "Improv/Items/Items.md",
+    "Improv/Locations/Locations.md",
+    "Improv/Lore/Lore.md",
+    "Improv/NPCs/NPCs.md",
+    "Improv/Party/Party.md",
+    "Improv/Quests/Quests.md",
+    "Improv/_Logistics/_Logistics.md",
+    "Improv/General/General.md",
     "Improv/NPCs/Mayor Cool.md",
     "Improv/Locations/Drubbin.md",
     "Untitled.md",
-    "Improv/Bookkeeping",
-    "Improv/Factions",
-    "Improv/Items",
-    "Improv/General",
-    "Improv/Party",
-    "Improv/Misc",
-    "Improv/Lore",
-    "Improv/Quests",
-    "Improv/NPCs",
-    "Improv/Locations",
+    "Improv/_Logistics",
     "Welcome.md"
   ]
 }
