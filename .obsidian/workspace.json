@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b4d0f561a0e125c8",
+        "id": "9286b070a31ea587",
         "type": "tabs",
         "children": [
           {
-            "id": "51f3fd492b82fc8a",
+            "id": "81cfd71c832de405",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
                 "aRef": "HEAD",
                 "bRef": ""
               },
               "icon": "diff",
-              "title": "Diff: .gitignore"
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -181,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "51f3fd492b82fc8a",
+  "active": "81cfd71c832de405",
   "lastOpenFiles": [
     "Improv/NPCs/Mayor Cool.md",
     "Improv/Locations/Drubbin.md",
