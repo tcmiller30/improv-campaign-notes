@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/NPCs.md",
+                "file": "Introduction to Obsidian.MD.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "NPCs"
+              "title": "Introduction to Obsidian.MD"
             }
           }
         ]
@@ -182,6 +182,8 @@
   },
   "active": "c0780c7e3c814fae",
   "lastOpenFiles": [
+    "NPCs/NPCs.md",
+    "Introduction to Obsidian.MD.md",
     "Lore/Lore.md",
     "Items/Items.md",
     "Locations/Locations.md",
@@ -191,7 +193,6 @@
     "Pendrot/Locations/Locations.md",
     "Pendrot/Locations/Drubbin.md",
     "NPCs/Mayor Cool.md",
-    "NPCs/NPCs.md",
     "Locations/Drubbin.md",
     "Pendrot/_Logistics/_Logistics.md",
     "Pendrot/Quests/Quests.md",
@@ -211,7 +212,6 @@
     "Pendrot",
     "Party/Party.md",
     "Quests/Quests.md",
-    "Untitled.md",
     "_Logistics",
     "Welcome.md"
   ]

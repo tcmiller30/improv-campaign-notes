@@ -1,6 +1,6 @@
 {
   "commitMessage": "Commit from {{hostname}} - {{date}}",
-  "commitDateFormat": "ddd MMM DD, YYYY @ HH:MM a",
+  "commitDateFormat": "ddd MMM DD, YYYY",
   "autoSaveInterval": 0,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
@@ -55,5 +55,5 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoCommitMessage": "{{hostname}} commit-and-sync: {{date}}"
+  "autoCommitMessage": "Commit-and-Sync from {{hostname}} - {{date}}"
 }
