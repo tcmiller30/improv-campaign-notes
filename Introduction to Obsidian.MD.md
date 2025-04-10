@@ -111,5 +111,4 @@ This renders as:
 - **Quickly Find Notes:** Use `Ctrl + O` (or `Cmd + O` on Mac) to open the Quick Switcher and find any note instantly.
 - **Tag Notes:** Add `#tag` to organize and filter notes. For example, `#NPC` or `#Quest`.
 - **Templates:** Create templates for recurring note formats (e.g., character sheets, session summaries).
-
-Enjoy using Obsidian to deepen your D&D storytelling and keep your campaign world organized!
+- **Toggle Edit Mode** You can switch between edit and read mode using the button at the top right of this panel. If you are in ***Edit Mode***, the button will look like a book to *switch to Preview Mode*. If you are in ***Preview Mode***, the button will look like a pencil to *switch to Edit Mode*
