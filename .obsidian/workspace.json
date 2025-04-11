@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/The Pizzazz.md",
+                "file": "Locations/Hooda's Giant Snail Farm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Pizzazz"
+              "title": "Hooda's Giant Snail Farm"
             }
           }
         ]
@@ -182,17 +182,18 @@
   },
   "active": "22e39de966ea9e44",
   "lastOpenFiles": [
-    "NPCs/Jemin Thorpe.md",
+    "Locations/Drubbin.md",
+    "Locations/Locations.md",
+    "Lore/Lore.md",
+    "NPCs/NPCs.md",
+    "NPCs/Agatha Skooble.md",
     "Items/The Pizzazz.md",
+    "NPCs/Jemin Thorpe.md",
     "Locations/Gullfire Island.md",
     "Locations/Stalbin.md",
-    "Locations/Locations.md",
     "Quests/The Slaughtered Snails.md",
     "Quests/Quests.md",
-    "NPCs/NPCs.md",
     "Party/Party.md",
-    "Lore/Lore.md",
-    "Locations/Drubbin.md",
     "Items/Items.md",
     "General/General.md",
     "_Logistics/_Logistics.md",
@@ -200,7 +201,6 @@
     "NPCs/Mayor Cool.md",
     "NPCs/Don and Lisa Hooda.md",
     "Locations/Hooda's Giant Snail Farm.md",
-    "NPCs/Agatha Skooble.md",
     "z_Templates/_Quest.md",
     "z_Templates",
     "Pendrot/NPCs/NPCs.md",
