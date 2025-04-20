@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Hooda's Giant Snail Farm.md",
+                "file": "NPCs/Jerome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hooda's Giant Snail Farm"
+              "title": "Jerome"
             }
           }
         ]
@@ -182,25 +182,26 @@
   },
   "active": "22e39de966ea9e44",
   "lastOpenFiles": [
+    "NPCs/Mayor Cool.md",
+    "NPCs/Don and Lisa Hooda.md",
+    "NPCs/Agatha Skooble.md",
+    "NPCs/Jerome.md",
+    "NPCs/Jemin Thorpe.md",
+    "Quests/Quests.md",
+    "General/General.md",
+    "Locations/Gullfire Island.md",
+    "Locations/Hooda's Giant Snail Farm.md",
     "Locations/Drubbin.md",
     "Locations/Locations.md",
     "Lore/Lore.md",
     "NPCs/NPCs.md",
-    "NPCs/Agatha Skooble.md",
     "Items/The Pizzazz.md",
-    "NPCs/Jemin Thorpe.md",
-    "Locations/Gullfire Island.md",
     "Locations/Stalbin.md",
     "Quests/The Slaughtered Snails.md",
-    "Quests/Quests.md",
     "Party/Party.md",
     "Items/Items.md",
-    "General/General.md",
     "_Logistics/_Logistics.md",
     "Introduction to Obsidian.MD.md",
-    "NPCs/Mayor Cool.md",
-    "NPCs/Don and Lisa Hooda.md",
-    "Locations/Hooda's Giant Snail Farm.md",
     "z_Templates/_Quest.md",
     "z_Templates",
     "Pendrot/NPCs/NPCs.md",
@@ -208,7 +209,6 @@
     "Pendrot/Locations/Drubbin.md",
     "Pendrot/_Logistics/_Logistics.md",
     "Pendrot/Quests/Quests.md",
-    "Pendrot/Party/Party.md",
     "Pendrot/_Logistics",
     "Pendrot/Quests",
     "Pendrot/Party",

@@ -1,0 +1,1 @@
+An island off the western coast of Stalbin. It is supplied by the mainland with food and supplies. The Pizzazz Crew have been tasked with delivering some crates of grain as cargo for a sum of 10gp/sailor.
